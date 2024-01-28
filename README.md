@@ -1,6 +1,6 @@
 # C# Language Exercises
 
-## Preface: Why I Understand C#
+## Preface: Why I Study C#
 During my preparation for the Microsoft Azure AI Engineer certification, I recognized Python and C# as the primary languages for developing AI products. This led me to delve into learning C# to enhance performance and explore career opportunities in the fields of Data and AI.
 
 C# Performance Surge: Raygun, a software company, achieved a remarkable 2,000% increase in throughput by transitioning from Node.js to .NET Core. CEO John Daniel emphasizes the leap from 1,000 to 20,000 requests per second.
