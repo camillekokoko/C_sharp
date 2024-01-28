@@ -6,9 +6,17 @@ This repository contains a collection of C# language exercises.
 
 
 Compile (to do)
+Getting Input 
+Console.WriteLine("How old are you?");
+string input = Console.ReadLine();
+      Console.WriteLine($"You are {input} years old!");
 ```
-  javac <filename>.java
+  dotnet run
+  How old are you?
+  18
+  You are 18 years old!
 ```
+
 
 A successful compilation produces an executable class. Run the .class file:
  ```
