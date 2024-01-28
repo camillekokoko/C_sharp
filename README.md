@@ -4,6 +4,8 @@ This repository contains a collection of C# language exercises.
 
 **1.** [HelloWorld.cs](https://github.com/camillekokoko/C#/helloworld.cs)
 
+**2.** [dotnet.cs](https://github.com/camillekokoko/C#/dotnet.cs)
+
 
 Compile (to do)
 Getting Input 
