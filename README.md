@@ -2,9 +2,9 @@
 
 This repository contains a collection of C# language exercises.
 
-**1.** [HelloWorld.cs](https://github.com/camillekokoko/C#/helloworld.cs)
+**1.** [HelloWorld.cs](https://github.com/camillekokoko/C_sharp/blob/main/HelloWorld.cs)
 
-**2.** [dotnet.cs](https://github.com/camillekokoko/C#/dotnet.cs)
+**2.** [dotnet.cs](https://github.com/camillekokoko/C_sharp/blob/main/dotnet.cs)
 
 
 Compile (to do)
