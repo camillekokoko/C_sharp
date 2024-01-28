@@ -6,8 +6,12 @@ namespace GettingInput
   {
     static void Main()
     {
+      // The command Console.WriteLine() prints text to the console
       Console.WriteLine("How old are you?");
+      
+      // The command Console.ReadLine() captures user input in the console
       string input = Console.ReadLine();
+      
       Console.WriteLine($"You are {input} years old!");
     }
   }
