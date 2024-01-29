@@ -24,7 +24,8 @@ string input = Console.ReadLine();
   18
   You are 18 years old!
 ```
-
+**3.** [datatype.cs]
+int long float double decimal char bool DataTime string
 
 A successful compilation produces an executable class. Run the .class file:
  ```
