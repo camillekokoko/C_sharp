@@ -50,7 +50,8 @@ built-in types: int, double, char, string, and bool
 **13.** 
 [Length_IndexOf.cs](https://github.com/camillekokoko/C_sharp/blob/main/Length_IndexOf.cs)
 
-
+**14.** 
+[Substring.cs](https://github.com/camillekokoko/C_sharp/blob/main/Substring.cs)
 
 
 A successful compilation produces an executable class. Run the .class file:
