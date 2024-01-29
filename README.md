@@ -74,5 +74,7 @@ built-in types: int, double, char, string, and bool
 **21.** 
 [swtich.cs](https://github.com/camillekokoko/C_sharp/blob/main/swtich.cs)
 
+**22.** 
+[Ternary_Operators.cs](https://github.com/camillekokoko/C_sharp/blob/main/Ternary_Operators.cs)
 
 
