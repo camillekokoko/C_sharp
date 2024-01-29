@@ -59,6 +59,12 @@ built-in types: int, double, char, string, and bool
 **16.** 
 [comparison_operators.cs](https://github.com/camillekokoko/C_sharp/blob/main/comparison_operators.cs)
 
+**17.** 
+[Logical_Operators.cs](https://github.com/camillekokoko/C_sharp/blob/main/Logical_Operators.cs)
+
+**18.** 
+[if.cs](https://github.com/camillekokoko/C_sharp/blob/main/if.cs)
+
 
 A successful compilation produces an executable class. Run the .class file:
  ```
