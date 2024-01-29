@@ -34,7 +34,10 @@ built-in types: int, double, char, string, and bool
 
 **7.** [modulo.cs](https://github.com/camillekokoko/C_sharp/blob/main/modulo.cs)
 
-**8.** [builtin_math_abs_sqrt_floor_min.cs.cs](https://github.com/camillekokoko/C_sharp/blob/main/builtin_math_abs_sqrt_floor_min.cs.cs)
+**8.** [builtin_math_abs_sqrt_floor_min.cs](https://github.com/camillekokoko/C_sharp/blob/main/builtin_math_abs_sqrt_floor_min.cs)
+
+**9.** [math_pow_max_ceiling.cs](https://github.com/camillekokoko/C_sharp/blob/main/math_pow_max_ceiling.cs)
+
 
 A successful compilation produces an executable class. Run the .class file:
  ```
