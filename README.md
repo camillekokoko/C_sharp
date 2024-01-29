@@ -30,6 +30,8 @@ built-in types: int, double, char, string, and bool
 
 **5.** [arithmetic_operators.cs](https://github.com/camillekokoko/C_sharp/blob/main/arithmetic_operators.cs)
 
+**6.** [operator_shortcuts.cs](https://github.com/camillekokoko/C_sharp/blob/main/operator_shortcuts.cs)
+
 A successful compilation produces an executable class. Run the .class file:
  ```
   java <filename>
