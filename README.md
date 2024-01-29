@@ -5,7 +5,7 @@ During my preparation for the Microsoft Azure AI Engineer certification, I recog
 
 C# Performance Surge: Raygun, a software company, achieved a remarkable 2,000% increase in throughput by transitioning from Node.js to .NET Core. CEO John Daniel emphasizes the leap from 1,000 to 20,000 requests per second.
 
-C# Career Prospects: C# and .NET [https://learn.microsoft.com/en-us/dotnet/api/](the framework - family of programs and commands that let you make applications with C#) stands out in the job market, providing opportunities for roles in developing chat applications, financial trading programs, and medical record systems. Its robust design and framework support make it a valuable skill for data and AI career pathways.
+C# Career Prospects: C# and [.NET] (https://learn.microsoft.com/en-us/dotnet/api/) (the framework - family of programs and commands that let you make applications with C#) stands out in the job market, providing opportunities for roles in developing chat applications, financial trading programs, and medical record systems. Its robust design and framework support make it a valuable skill for data and AI career pathways.
 
 ## Directory: 
 **1.** [HelloWorld.cs](https://github.com/camillekokoko/C_sharp/blob/main/HelloWorld.cs)
