@@ -47,6 +47,12 @@ built-in types: int, double, char, string, and bool
 **12.** 
 [Interpolation.cs](https://github.com/camillekokoko/C_sharp/blob/main/Interpolation.cs)
 
+**13.** 
+[Length_IndexOf.cs](https://github.com/camillekokoko/C_sharp/blob/main/Length_IndexOf.cs)
+
+
+
+
 A successful compilation produces an executable class. Run the .class file:
  ```
   java <filename>
