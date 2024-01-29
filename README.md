@@ -56,6 +56,9 @@ built-in types: int, double, char, string, and bool
 **15.** 
 [ToUpper_ToLower.cs](https://github.com/camillekokoko/C_sharp/blob/main/ToUpper_ToLower.cs)
 
+**16.** 
+[comparison_operators.cs](https://github.com/camillekokoko/C_sharp/blob/main/comparison_operators.cs)
+
 
 A successful compilation produces an executable class. Run the .class file:
  ```
