@@ -12,8 +12,7 @@ C# Career Prospects: C# and .NET (the framework - family of programs and command
 
 **2.** [dotnet.cs](https://github.com/camillekokoko/C_sharp/blob/main/dotnet.cs)
 
-
-Compile (to do)
+Compile 
 Getting Input 
 Console.WriteLine("How old are you?");
 string input = Console.ReadLine();
@@ -26,6 +25,8 @@ string input = Console.ReadLine();
 ```
 **3.** [datatypes.cs](https://github.com/camillekokoko/C_sharp/blob/main/datatypes.cs)
 int long float double decimal char bool DataTime string
+
+**4.** [convertToInt32.cs](https://github.com/camillekokoko/C_sharp/blob/main/convertToInt32.cs)
 
 A successful compilation produces an executable class. Run the .class file:
  ```
