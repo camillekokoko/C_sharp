@@ -53,6 +53,9 @@ built-in types: int, double, char, string, and bool
 **14.** 
 [Substring.cs](https://github.com/camillekokoko/C_sharp/blob/main/Substring.cs)
 
+**15.** 
+[ToUpper_ToLower.cs](https://github.com/camillekokoko/C_sharp/blob/main/ToUpper_ToLower.cs)
+
 
 A successful compilation produces an executable class. Run the .class file:
  ```
