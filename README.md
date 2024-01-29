@@ -65,6 +65,9 @@ built-in types: int, double, char, string, and bool
 **18.** 
 [if.cs](https://github.com/camillekokoko/C_sharp/blob/main/if.cs)
 
+**19.** 
+[if_else.cs](https://github.com/camillekokoko/C_sharp/blob/main/if_else.cs)
+
 
 A successful compilation produces an executable class. Run the .class file:
  ```
