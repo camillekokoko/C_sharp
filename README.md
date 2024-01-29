@@ -32,9 +32,9 @@ built-in types: int, double, char, string, and bool
 
 **6.** [operator_shortcuts.cs](https://github.com/camillekokoko/C_sharp/blob/main/operator_shortcuts.cs)
 
-**6.** [modulo.cs](https://github.com/camillekokoko/C_sharp/blob/main/modulo.cs)
+**7.** [modulo.cs](https://github.com/camillekokoko/C_sharp/blob/main/modulo.cs)
 
-
+**8.** [builtin_math_abs_sqrt_floor_min.cs.cs](https://github.com/camillekokoko/C_sharp/blob/main/builtin_math_abs_sqrt_floor_min.cs.cs)
 
 A successful compilation produces an executable class. Run the .class file:
  ```
