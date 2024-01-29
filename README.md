@@ -38,6 +38,8 @@ built-in types: int, double, char, string, and bool
 
 **9.** [math_pow_max_ceiling.cs](https://github.com/camillekokoko/C_sharp/blob/main/math_pow_max_ceiling.cs)
 
+**10.** 
+[Strings.cs](https://github.com/camillekokoko/C_sharp/blob/main/Strings.cs)
 
 A successful compilation produces an executable class. Run the .class file:
  ```
