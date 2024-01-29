@@ -24,7 +24,7 @@ string input = Console.ReadLine();
   You are 18 years old!
 ```
 **3.** [datatypes.cs](https://github.com/camillekokoko/C_sharp/blob/main/datatypes.cs)
-int long float double decimal char bool DataTime string
+built-in types: int, double, char, string, and bool
 
 **4.** [convertToInt32.cs](https://github.com/camillekokoko/C_sharp/blob/main/convertToInt32.cs)
 
