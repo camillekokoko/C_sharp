@@ -44,6 +44,9 @@ built-in types: int, double, char, string, and bool
 **11.** 
 [Concatenation.cs](https://github.com/camillekokoko/C_sharp/blob/main/Concatenation.cs)
 
+**12.** 
+[Interpolation.cs](https://github.com/camillekokoko/C_sharp/blob/main/Interpolation.cs)
+
 A successful compilation produces an executable class. Run the .class file:
  ```
   java <filename>
